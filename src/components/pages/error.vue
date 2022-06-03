@@ -1,13 +1,11 @@
 <template>
-    <h1 class="d-flex justify-content-center">Inavlid URL </h1>
+  <h1 class="d-flex justify-content-center">Inavlid URL</h1>
 </template>
 
 <script>
-    export default {
-        name:'errorComp'
-    }
+export default {
+  name: "errorComp",
+};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
