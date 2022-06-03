@@ -5,6 +5,11 @@
 npm install
 ```
 
+## Json file server
+```
+json-server --watch Students.json --port 3000
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
