@@ -1,4 +1,4 @@
-# daytwo
+# schoolWebsite-adminPanel
 
 ## Project setup
 ```
